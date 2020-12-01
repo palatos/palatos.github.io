@@ -30,7 +30,8 @@ projects:
       - mynotes
     # - repo-name
 
-# social_media:
+social_media:
+  googlescholar: '5qPen1YAAAAJ&view_op=list_works&sortby=pubdate'
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
